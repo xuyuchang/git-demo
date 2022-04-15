@@ -6,7 +6,7 @@ Hello git!
 Hello git!
 Hello git!
 Hello git!
-Hello git!
+Hello git! master test2
 Hello git! hot-fix test
 Hello git! master test
 Hello git! 8898
